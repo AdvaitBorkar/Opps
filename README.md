@@ -9,3 +9,14 @@ git switch "branch name"
 npm install
 
 npm start
+
+
+
+#Make changes
+
+git pull -> make sure version is up to date
+
+
+
+git commit -m "message"
+git push origin "branch name"
