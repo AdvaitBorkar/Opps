@@ -14,7 +14,7 @@ npm start
 
 # Make changes
 
-git pull -> make sure version is up to date
+git pull
 
 git add .
 
