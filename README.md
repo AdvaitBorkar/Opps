@@ -17,6 +17,6 @@ npm start
 git pull -> make sure version is up to date
 
 
-
+git add .
 git commit -m "message"
-git push origin "branch name"
+git push origin HEAD:master (not sure about this line)
