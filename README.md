@@ -20,5 +20,5 @@ git add .
 
 git commit -m "message"
 
-ggit push -u origin "branch name"
+git push -u origin "branch name"
 
