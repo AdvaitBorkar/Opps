@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Baby Daisy Bullet Bike Combo Slaps
+          Learn React 1
         </a>
       </header>
     </div>
