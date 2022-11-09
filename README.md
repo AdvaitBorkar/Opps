@@ -20,4 +20,5 @@ git add .
 
 git commit -m "message"
 
-git push origin HEAD:master (not sure about this line)
+ggit push -u origin "branch name"
+
