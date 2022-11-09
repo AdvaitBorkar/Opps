@@ -12,7 +12,7 @@ npm start
 
 
 
-#Make changes
+# Make changes
 
 git pull -> make sure version is up to date
 
