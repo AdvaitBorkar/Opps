@@ -14,7 +14,7 @@ npm start
 
 # Make changes
 
-git pull
+git pull origin
 
 git add .
 
