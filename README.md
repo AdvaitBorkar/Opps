@@ -12,13 +12,14 @@ npm start
 
 
 
-#Make changes
+# Make changes
 
-git pull -> make sure version is up to date
+git pull origin
 
-
+git add .
 
 git commit -m "message"
+
 git push origin "branch name"
 
 
@@ -27,3 +28,6 @@ git push origin "branch name"
 # Yo Advait is a throat 
 
 # Yo Ashrith is a goat
+
+git push -u origin "branch name"
+
