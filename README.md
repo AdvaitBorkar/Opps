@@ -20,3 +20,10 @@ git pull -> make sure version is up to date
 
 git commit -m "message"
 git push origin "branch name"
+
+
+# Yo Misaaal is a fruit
+
+# Yo Advait is a throat 
+
+# Yo Ashrith is a goat
